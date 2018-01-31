@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QuizTime</string>
+    <string name="question_one">In Dragonball Z what is Vegetas son called?</string>
+    <string name="q1_answer1">Gohan</string>
+    <string name="q1_answer2">Trunks</string>
+    <string name="q1_answer3">Goten</string>
+    <string name="q1_answer4">Pan</string>
+    <string name="question_two">In OnePiece who wants to become king of the Pirates?</string>
+    <string name="q2_answer1">Monkey D Luffy</string>
+    <string name="q2_answer2">Crocodile</string>
+    <string name="q2_answer3">Doflamingo</string>
+    <string name="q2_answer4">All of the Above</string>
+    <string name="question_three">Who was Ash Ketchums first Pokémon?</string>
+    <string name="q3_answer1">Bulbasaur</string>
+    <string name="q3_answer2">Charmander</string>
+    <string name="q3_answer3">Pikachu</string>
+    <string name="q3_answer4">Squirtle</string>
+    <string name="question_four">What Millennium Item does Yugi have possession of in Yu-Gi-Oh?</string>
+    <string name="q4_answer1">Millennium Rod</string>
+    <string name="q4_answer2">Millennium Puzzle</string>
+    <string name="q4_answer3">Millennium Necklace</string>
+    <string name="q4_answer4">Millennium Eye</string>
+    <string name="question_five">Jutsus in Naruto are divided into three categories, what are they?</string>
+    <string name="q5_answer1">Ninjutsu, Ringjutsu, and Tyjutsu</string>
+    <string name="q5_answer2">Genjutsu, Ninjutsu, and Taijutsu</string>
+    <string name="q5_answer3">Redjutsu, Greenjutsu, and Bluejutsu</string>
+    <string name="q5_answer4">Tenjutsu, Ninjutsu, and Gaijutsu</string>
+    <string name="submit_main">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="succeed">"Good job! Your score is "</string>
+    <string name="score">"Your score is "</string>
+    <string name="again">"Please, try again!"</string>
+    <string name="zero">"Need to start watching Anime"</string>
+    <string name="one_two">"Need to watch some more Anime"</string>
+    <string name="three_four">"Not bad I must say"</string>
+    <string name="full_score">"Easy wasn't they?"</string>
+
+</resources>
